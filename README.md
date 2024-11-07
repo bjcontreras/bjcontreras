@@ -1,7 +1,7 @@
-- 👋 Hola colegas, soy @bjcontreras /n
-Tecnologo en Analisis y Desarrollo de Sistemas de la infomacion enfocado en el backend./n
-Mi lenguaje base es java con spring boot desarrollando microservicios api rest con integraciones a bases de datos o algunos servicios soap /n
-Dentro de mis conocimientos basicos estan:
+- 👋 Hola colegas, soy @bjcontreras <br>
+Tecnologo en Analisis y Desarrollo de Sistemas de la infomacion enfocado en el backend. <br>
+Mi lenguaje base es java con spring boot desarrollando microservicios api rest con integraciones a bases de datos o algunos servicios soap <br>
+Dentro de mis conocimientos basicos estan: <br>
 - Java (Integrando Jpa, jdbc, bd, storage acount, soap, api rest)
 - Integracion continua CD/CI (devops)
 - Azure (Para despliegue de microservicios contenerizados aks)
