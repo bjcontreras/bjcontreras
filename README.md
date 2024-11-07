@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @bjcontreras
-- 👀 I’m interested in backend develops
-- 🌱 I’m working as software develop
+- 👋 Hola colegas, soy @bjcontreras
+Tecnologo en Analisis y Desarrollo de Sistemas de la infomacion enfocado en el backend.
+Mi lenguaje base es java con spring boot desarrollando microservicios api rest con integraciones a bases de datos o algunos servicios soap
+Dentro de mis conocimientos basicos estan:
+- Java (Integrando Jpa, jdbc, bd, storage acount, soap, api rest)
+- Integracion continua CD/CI (devops)
+- Azure (Para despliegue de microservicios contenerizados aks)
+- IAC (Algo basico de infraestructura como codigo para despliegue de recursos en azure)
+- API .NET 8 (Haciendo un crud basico)
 
 
 <!---
